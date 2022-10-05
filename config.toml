@@ -1,0 +1,121 @@
+baseURL = "https://ale-barone.github.io/"
+languageCode = "en-uk"
+title = "Alessandro Barone"
+theme = "personal-web"
+copyright="© Alessandro Barone"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Alessandro Barone"
+  sub = "Hi! I'm a Researcher in Particle Physics"
+
+[params.main]
+  latestPublishHeader = "News"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+# [params.notFound]
+  # gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  # h1 = 'Bummer!'
+  # p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  # post = "project"
+  # portfolio = "project"
+  # research = "article"
+
+[params.sidebar]
+  backgroundImage = "/images/background.jpeg"
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/mugshot.jpeg"
+
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/ale-barone"
+  linkedin = "https://www.linkedin.com/in/alessandro-barone-126216233/"
+  qgradcap = "https://www.southampton.ac.uk/people/5xty6g/mr-alessandro-barone"
+  # orcid = "https://orcid.org/0000-0002-0036-2517"
+  rmail = "mailto:barone1618@gmail.com"
+
+[params.contact]
+  email = 'barone1618@gmail.com'
+  text = "Contact"
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "research"
+  name = "Research"
+  title = "Research section"
+  url = "/research/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  title = "Projects"
+  url = "/projects/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "project"
+  name = "Unofficial"
+  title = "Unofficial section"
+  url = "/unofficial/"
+  weight = -80
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
