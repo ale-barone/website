@@ -3,7 +3,7 @@ languageCode = "en-uk"
 title = "Alessandro Barone"
 theme = "personal-web"
 copyright="© Alessandro Barone"
-googleAnalytics = ""
+googleAnalytics = "UA-250247840-1"
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
@@ -11,10 +11,10 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Alessandro Barone"
-  sub = "Hi! I'm a Researcher in Particle Physics"
+  sub = "Hi! I'm a researcher in Particle Physics"
 
 [params.main]
-  latestPublishHeader = "News"
+  latestPublishHeader = "Latest posts"
 
 [taxonomies]
   design = "designs"
@@ -53,19 +53,20 @@ pygmentsCodeFences=true
   github = "https://github.com/ale-barone"
   linkedin = "https://www.linkedin.com/in/alessandro-barone-126216233/"
   qgradcap = "https://www.southampton.ac.uk/people/5xty6g/mr-alessandro-barone"
-  # orcid = "https://orcid.org/0000-0002-0036-2517"
-  rmail = "mailto:barone1618@gmail.com"
+  orcid = "https://orcid.org/0000-0002-0036-2517"
+  rmail = "mailto:a.barone@soton.ac.uk"
 
-[params.contact]
-  email = 'barone1618@gmail.com'
-  text = "Contact"
+
+# [params.contact]
+#  email = ''
+#  text = "Contact"
 
 
 [menu]
 
 [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "About me"
   title = "About section"
   url = "/about/"
   weight = -120
@@ -97,6 +98,14 @@ pygmentsCodeFences=true
   title = "Unofficial section"
   url = "/unofficial/"
   weight = -80
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact section"
+  url = "/contact/"
+  weight = -70
+
 
 
 [sitemap]

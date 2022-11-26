@@ -24,14 +24,35 @@ These results will represent the first fully non-perturbative theoretical predic
 such quantities and may eventually provide new insight into the long-standing tension between the
 inclusive and exclusive determination of these CKM matrix elements.
 
-# Talks
 
+<!-- Publications -->
+
+# Publications
+<br>
+
+- Inclusive semi-leptonic B (s) mesons decay from Lattice QCD, **AB**, S. Hashimoto, A. Jüttner, T. Kaneko
+and R. Kellermann (In preparation)
+
+See list of publications on 
+<a href="https://inspirehep.net/authors/2159325?ui-citation-summary=true" target="_blank">
+iNSPIRE
+</a>.
+
+
+# Talks
+<br>
 
 - <a href="https://indico.hiskp.uni-bonn.de/event/40/contributions/539/" target="_blank">
    Inclusive semi-leptonic $B_{(s)}$ mesons decay at the physical b quark mass
   </a> 
 
   Lattice 2022, 12th August 2022 (Bonn, Germany)
+
+- <a style="color:blue">
+    Inclusive semi-leptonic $B_{(s)}$ mesons decay from Lattice QCD
+  </a>
+
+  TH Informal Lattice Meeting (virtual), 21st June 2022 (CERN, Switzerland)
 
 - <a href="https://indico.ph.tum.de/event/6994/contributions/5258/" target="_blank">
    Inclusive semi-leptonic $B_{(s)}$ mesons decay from Lattice QCD
@@ -43,23 +64,14 @@ inclusive and exclusive determination of these CKM matrix elements.
    A variance reduction technique for hadronic correlators with partially twisted boundary conditions
   </a>
 
-  BNL-HET & RBRC Joint Workshop "DWF@25", 13th December 2021 (Virtual)
+  BNL-HET & RBRC Joint Workshop "DWF@25" (virtual), 13th December 2021 (BNL, USA)
 
 - <a href="https://indico.cern.ch/event/1006302/contributions/4378530/" target="_blank">
    A variance reduction technique for hadronic correlators with partially twisted boundary conditions
   </a>
 
-  Lattice 2021, 29th July 2021 (Virtual)
-
-
+  Lattice 2021 (virtual), 29th July 2021 (MIT, USA)
 
 <span style="color:blue">*Invited talks in blue</span>.
 
-<!-- Publications -->
 
-# Publications
-
-See list of publication on 
-<a href="https://inspirehep.net/authors/2159325?ui-citation-summary=true" target="_blank">
-iNSPIRE
-</a>.

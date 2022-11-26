@@ -1,7 +1,6 @@
 ---
 title: HOME
 description: Home page
-images: 
 ---
 
 <span style="font-size:1.5em">Hey there :wave:, welcome to my webpage!</span>
