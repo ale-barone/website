@@ -1,8 +1,16 @@
 <head>
-  <title>{{.Params.title}} - {{ $.Site.Title}}</title>
+  <title>{{.Params.title}} {{ $.Site.Title}}</title>
   <link rel='canonical' href='{{ .Permalink }}' />
   {{ partial "head/meta" .}}
   {{ partial "head/style" .}}
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/schema.html" . }}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TJJFTZGV8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-4TJJFTZGV8');
+  </script>
 </head>
