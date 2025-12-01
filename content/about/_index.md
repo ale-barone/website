@@ -20,7 +20,7 @@ be a rockstar...
 
 <br>
 
-**Down here is my short CV.** You can find my full CV [here](./CV_Barone.pdf) (last update 05/12/2022).
+**Down here is my short CV.** You can find my full CV [here](./CV_Barone.pdf) (last update 01/12/2025).
 
 Research Interests:
 - Lattice Field Theory

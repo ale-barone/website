@@ -6,8 +6,10 @@ bibliography: biblio
 csl: journal-of-physics-g-nuclear-and-particle-physics.csl
 ---
 
+My research focuses on **heavy-quark physics** and **hadron structure**, using Lattice QCD to provide first-principles predictions for form factors and Standard Model parameters. The underlying goal 
+is to support and interpret experimental results, providing theoretical input for non-perturbative quantities and helping to shed light on existing anomalies that may signal new physics.
 
-My main PhD project focuses on the study of inclusive semi-leptonic decays of $B_{(s)}$
+<!-- My main PhD project focuses on the study of inclusive semi-leptonic decays of $B_{(s)}$
 mesons through Lattice QCD simulations. 
 
 Precise theoretical predictions for particle physics models are key ingredients for pushing forward our
@@ -22,7 +24,7 @@ Cabibbo-Kobayashi-Maskawa
 matrix elements, specifically $|V_{cb}|$ and $|V_{ub}|$. \
 These results will represent the first fully non-perturbative theoretical predictions for
 such quantities and may eventually provide new insight into the long-standing tension between the
-inclusive and exclusive determination of these CKM matrix elements.
+inclusive and exclusive determination of these CKM matrix elements. -->
 
 
 <!-- Publications -->
@@ -30,8 +32,22 @@ inclusive and exclusive determination of these CKM matrix elements.
 # Publications
 <br>
 
-- Inclusive semi-leptonic B (s) mesons decay from Lattice QCD, **AB**, S. Hashimoto, A. Jüttner, T. Kaneko
-and R. Kellermann (In preparation)
+- *Inclusive semileptonic decays from lattice QCD: analysis of systematic effects*, R. Kellermann, AB, A. Elgaziari,
+S. Hashimoto, Z. Hu, A. Jüttner and T. Kaneko, Phys. Rev. D 112, 014501
+<a href="https://arxiv.org/abs/2504.03358" target="_blank">
+    [arXiv:2504.03358 [hep-lat]]
+</a> 
+
+- *The isoscalar octet axial form factor of the nucleon from lattice QCD*, **AB**, D. Djukanovic, G. von Hippel, J. Koponen,
+H. B. Meyer, K. Ottnad and H. Wittig, Phys. Rev. D 112, 014503
+<a href="https://arxiv.org/abs/2503.18848" target="_blank">
+   [arXiv:2503.18848 [hep-lat]]
+</a> 
+
+- *Approaches to inclusive semileptonic $B(s)$-meson decays from Lattice QCD*, **AB**, S. Hashimoto, A. Jüttner, T. Kaneko
+and R. Kellermann, JHEP 07 (2023) 145 <a href="https://arxiv.org/abs/2305.14092" target="_blank">
+   [arXiv:2305.14092 [hep-lat]]
+  </a> 
 
 See list of publications on 
 <a href="https://inspirehep.net/authors/2159325?ui-citation-summary=true" target="_blank">
