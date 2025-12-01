@@ -52,9 +52,9 @@ pygmentsCodeFences=true
 [params.social]
   github = "https://github.com/ale-barone"
   linkedin = "https://www.linkedin.com/in/alessandro-barone-126216233/"
-  qgradcap = "https://www.southampton.ac.uk/people/5xty6g/mr-alessandro-barone"
+  qgradcap = "https://wwwth.kph.uni-mainz.de/people/"
   orcid = "https://orcid.org/0000-0002-0036-2517"
-  rmail = "mailto:a.barone@soton.ac.uk"
+  rmail = "mailto:abarone@uni-mainz.de"
 
 
 # [params.contact]
