@@ -30,7 +30,25 @@ inclusive and exclusive determination of these CKM matrix elements. -->
 <!-- Publications -->
 
 # Publications
+
+Full list on 
+<a href="https://inspirehep.net/authors/2159325?ui-citation-summary=true" target="_blank" style="color:blue">
+iNSPIRE
+</a>.
+
 <br>
+
+- *The strange and flavor-singlet axial form factors of the nucleon from lattice QCD*,
+**AB**, D. Djukanovic, G. von Hippel, H. B. Meyer, K. Ottnad and H. Wittig
+<a href="https://arxiv.org/abs/2605.06559" target="_blank">
+    [arXiv:2605.06559 [hep-lat]]
+</a> 
+
+- *Inclusive semileptonic $D_s\rightarrow X_s\ell \bar{\nu}$ decays from lattice QCD: continuum and chiral extrapolation*,
+R. Kellermann, **AB**, A. Elgaziari, S. Hashimoto, Z. Hu, A. Jüttner and T. Kaneko
+<a href="https://arxiv.org/abs/2604.22201" target="_blank">
+    [arXiv:2604.22201 [hep-lat]]
+</a> 
 
 - *Inclusive semileptonic decays from lattice QCD: analysis of systematic effects*, R. Kellermann, AB, A. Elgaziari,
 S. Hashimoto, Z. Hu, A. Jüttner and T. Kaneko, Phys. Rev. D 112, 014501
@@ -49,14 +67,19 @@ and R. Kellermann, JHEP 07 (2023) 145 <a href="https://arxiv.org/abs/2305.14092"
    [arXiv:2305.14092 [hep-lat]]
   </a> 
 
-See list of publications on 
-<a href="https://inspirehep.net/authors/2159325?ui-citation-summary=true" target="_blank">
-iNSPIRE
-</a>.
 
 
 # Talks
+<span style="color:blue">*Invited talks in blue</span>.
+
 <br>
+
+- <a href="https://agenda.infn.it/event/49469/contributions/284346/" target="_blank" style="color:blue">
+   Inclusive $B_s$ decays from lattice QCD
+  </a> 
+
+  The semileptonic $B$ frontier, 17 February 2026 (Frascati, Italy)
+
 
 - <a href="https://indico.global/event/14504/contributions/137784/" target="_blank">
    Flavor structure of the nucleon axial form factor from lattice QCD
@@ -139,6 +162,6 @@ iNSPIRE
 
   Lattice 2021 (virtual), 29th July 2021 (MIT, USA)
 
-<span style="color:blue">*Invited talks in blue</span>.
+
 
 
